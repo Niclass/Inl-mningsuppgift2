@@ -38,6 +38,4 @@ class ProductsController extends Controller
       "success" => true
     ]);
   }
-
-
 }
